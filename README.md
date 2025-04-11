@@ -1,7 +1,3 @@
-# ML-Project
-Here’s a concise version of the `README.md` tailored for the updated details:
-
----
 
 # EURUSD App
 
